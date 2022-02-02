@@ -1,4 +1,4 @@
-# DevOps Master- Chatbot
+# Azure Edu-Chatbot: DevOps Master
 
 ## Introduction
 

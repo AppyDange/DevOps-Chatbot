@@ -2,21 +2,20 @@
 
 ## Introduction
 
-DevOps Master Chatbot is basically a simple chatbot for answering all your questions related to DevOps, Cloud, Cloud platforms such as AWS, Azure, Alibaba, IBM, etc. 
-This chatbot was created using Microsoft Azure. Infact this chatbot is can also tell you about the tools used in DevOps, like, Terraform, Ansible, GitHub, Maven, 
-Using Cognitive Services provided by Microsoft Azure and website created by using google sites, makes this amazing chatbot unique. All you have to do is simple ask our chatbot what you want to know.
+DevOps Master Chatbot is a simple chatbot for answering all your questions related to DevOps, Cloud, Cloud platforms such as AWS, Azure, Alibaba, IBM, etc. 
+This chatbot was created using Microsoft Azure. Infact this chatbot can also tell you about the tools used in DevOps, like, Terraform, Ansible, GitHub, Maven, shell scripting, python scripting, etc. Using **Cognitive Services** provided by Microsoft Azure and website created by using google sites, makes this amazing chatbot unique. All you have to do is simple ask our chatbot what you want to know.
 
 ## Technologies Used
 
 - Microsoft Azure
 
-In this project I've taken **Microsoft Azure** as primary technology.
+In this project I have taken **Microsoft Azure** as primary technology.
 Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. These services and resources include storing your data and transforming it, depending on your requirements. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. It was launched on February 1, 2010, significantly later than its main competitor, AWS.
 It’s free to start and follows a pay-per-use model, which means you pay only for the services you opt for.
 Interestingly, 80 percent of the Fortune 500 companies use Azure services for their cloud computing needs.
 
 
-In this project, I've tried to use these following Cognitive services into my project:
+In this project, I have tried to use these following Cognitive services into my project:
 
 1. QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information. QnA Maker is commonly used to build conversational client applications, which include social media applications, chat bots, and speech-enabled desktop applications. QnA Maker doesn't store customer data. All customer data (question answers and chat logs) is stored in the region the customer deploys the dependent service instances in.
 
@@ -32,7 +31,7 @@ In this project, I've tried to use these following Cognitive services into my pr
 
 - Google Sites
 
-Lastly, for creating code free websites on the go, I've used google sites for creating my DevOps website, in which i have deployed my DevOps Chatbot. Google Sites is a free website builder from Google. You can create websites with collaborators by giving another Google user edit access. Google Sites are compatible with other Google services like Docs, Sheets, and Slides.
+Lastly, for creating code free websites on the go, I've used google sites for creating my DevOps website, in which i have deployed my DevOps Chatbot. **Google Sites** is a free website builder from Google. You can create websites with collaborators by giving another Google user edit access. Google Sites are compatible with other Google services like Docs, Sheets, and Slides.
 
 
 *This repository contains database of question and answer pairs used in knowledge base for the chatbot, and data of the website.* 

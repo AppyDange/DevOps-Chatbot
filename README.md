@@ -1,8 +1,8 @@
-# DevOps-Chatbot
+# DevOps Master- Chatbot
 
 ## Introduction
 
-DevOps Chatbot is basically a simple chatbot for answering all your questions related to DevOps, Cloud, Cloud platforms such as AWS, Azure, Alibaba, IBM, etc. 
+DevOps Master Chatbot is basically a simple chatbot for answering all your questions related to DevOps, Cloud, Cloud platforms such as AWS, Azure, Alibaba, IBM, etc. 
 This chatbot was created using Microsoft Azure. Infact this chatbot is can also tell you about the tools used in DevOps, like, Terraform, Ansible, GitHub, Maven, 
 Using Cognitive Services provided by Microsoft Azure and website created by using google sites, makes this amazing chatbot unique. All you have to do is simple ask our chatbot what you want to know.
 

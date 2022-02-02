@@ -3,7 +3,7 @@
 ## Introduction
 
 DevOps Master Chatbot is a simple chatbot for answering all your questions related to DevOps, Cloud, Cloud platforms such as AWS, Azure, Alibaba, IBM, etc. 
-This chatbot was created using Microsoft Azure. Infact this chatbot can also tell you about the tools used in DevOps, like, Terraform, Ansible, GitHub, Maven, shell scripting, python scripting, etc. Using **Cognitive Services** provided by Microsoft Azure and website created by using google sites, makes this amazing chatbot unique. All you have to do is simple ask our chatbot what you want to know.
+This chatbot was created using Microsoft Azure. Infact this chatbot can also tell you about the tools used in DevOps, like, Terraform, Ansible, GitHub, Maven, shell scripting, python scripting, etc. Using **Azure Cognitive Services** provided by Microsoft Azure and website created by using google sites, makes this amazing chatbot unique. All you have to do is simple ask our chatbot what you want to know.
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ It’s free to start and follows a pay-per-use model, which means you pay only f
 Interestingly, 80 percent of the Fortune 500 companies use Azure services for their cloud computing needs.
 
 
-In this project, I have tried to use these following Cognitive services into my project:
+In this project, I have tried to use these following **Azure Cognitive Services** into my project:
 
 1. QnA Maker: QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information. QnA Maker is commonly used to build conversational client applications, which include social media applications, chat bots, and speech-enabled desktop applications. QnA Maker doesn't store customer data. All customer data (question answers and chat logs) is stored in the region the customer deploys the dependent service instances in.
 

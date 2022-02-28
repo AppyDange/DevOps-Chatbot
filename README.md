@@ -42,6 +42,12 @@ In this project, I have tried to use these following **Azure Cognitive Services*
 
 Lastly, for creating code free websites on the go, I've used google sites for creating my DevOps website, in which i have deployed my DevOps Chatbot. **Google Sites** is a free website builder from Google. You can create websites with collaborators by giving another Google user edit access. Google Sites are compatible with other Google services like Docs, Sheets, and Slides.
 
+## Screenshots:
+Step 1: Created an Azure Resource Group named "DevOps"
+
+![Screenshot 2022-02-28 12 48 46](https://user-images.githubusercontent.com/91502734/155941110-00127239-570e-488a-a080-2c1d084aee59.png)
+
+
 ## Project Link: 
 
 https://sites.google.com/view/devopsmaster/home

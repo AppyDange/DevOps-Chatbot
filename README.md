@@ -48,6 +48,8 @@ Lastly, for creating code free websites on the go, I've used google sites for cr
 
 Here, in the above diagram, explains how cognitive services work in background.  
 
+With the help of Azure QnA maker we have created an knowledge base, then this knowledge base is connected to our azure chatbot and this chat bot is then embedded to our google site DevOps Master --> Client Device sends input to the Bot --> Azure Language understanding understands the client queries and automatically chooses an knowledge base and hence finds the similar answer and sends the output.
+
 
 
 

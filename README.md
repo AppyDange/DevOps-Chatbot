@@ -47,6 +47,8 @@ Lastly, for creating code free websites on the go, I've used google sites for cr
 ![Screenshot_20220228-122919 (1)](https://user-images.githubusercontent.com/91502734/155944983-6dc91296-9c99-4a63-92d3-79b7c701a480.jpg)
 
 
+
+
 ## Screenshots:
 Step 1: Created an Azure Resource Group named "DevOps"
 

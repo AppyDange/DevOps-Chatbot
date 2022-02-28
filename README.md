@@ -47,12 +47,46 @@ Step 1: Created an Azure Resource Group named "DevOps"
 
 ![Screenshot 2022-02-28 12 48 46](https://user-images.githubusercontent.com/91502734/155941110-00127239-570e-488a-a080-2c1d084aee59.png)
 
+Step 2: Created Azure QnA Maker 
+
+![Screenshot 2022-02-28 13 01 57](https://user-images.githubusercontent.com/91502734/155942231-1e649599-ed30-4132-af9b-d938f105b1aa.png)
+
+Step 3: Created an Azure Knowledge Base:
+
+![Screenshot 2022-02-28 13 03 59](https://user-images.githubusercontent.com/91502734/155942664-ea71c167-16d6-4171-bbeb-0479e80db49b.png)
+
+![Screenshot 2022-02-28 13 04 36](https://user-images.githubusercontent.com/91502734/155942703-eec438fc-2493-40bb-8a0e-fadb9f9d64cd.png)
+
+Step 4: Train the Bot using test feature in Knowledge Base
+
+![Screenshot 2022-02-28 13 05 14](https://user-images.githubusercontent.com/91502734/155942822-4ff34176-02a1-419c-9e70-4d9ee5d45da4.png)
+
+Step 5: Publishing the Bot by creating Azure Bot 
+
+![Screenshot 2022-02-28 13 08 14](https://user-images.githubusercontent.com/91502734/155943077-9bd1223a-4f83-43d0-875d-4f347aea99ed.png)
+
+![Screenshot 2022-02-28 13 09 18](https://user-images.githubusercontent.com/91502734/155943187-f37a55f4-d7e3-45e6-b511-f511e9e2307b.png)
+
+![Screenshot 2022-02-28 13 11 56](https://user-images.githubusercontent.com/91502734/155943525-67acbc66-5278-4350-b9b2-0a29effee092.png)
+
+
+Step 6: Copying the Embedded code and Secret Key to Google Site to enable our chatbot to work
+
+![Screenshot 2022-02-28 13 10 52](https://user-images.githubusercontent.com/91502734/155943730-300ec70d-a478-4352-9b0f-40666a575b88.png)
+
+![Screenshot 2022-02-28 13 15 47](https://user-images.githubusercontent.com/91502734/155944204-f5029bac-579c-4746-a77e-3461bf95b252.png)
+
+Step 7: Testing on Google Sites if the bot is working or not
+
+![Screenshot 2022-02-28 13 16 50](https://user-images.githubusercontent.com/91502734/155944287-b22c0639-d03d-4aec-96e7-cf213518cd3a.png)
+
 
 ## Project Link: 
 
+
 https://sites.google.com/view/devopsmaster/home
 
-## Project Video:
+## Project Demo Video:
 
 
 

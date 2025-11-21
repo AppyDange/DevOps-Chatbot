@@ -2,7 +2,7 @@
 
 ## Problem Statement: 
 
-Students get confused (basically non-IT ) when it comes to any new technology or any new profession as in DevOps. We are designing an Chatbot which will give all the information about DevOps. "Azure Edu-Chatbot: DevOps Master" is a chatbot which will give out all the necessary information not only of DevOps but also various tools involved in it, to help students getting an basic idea about the profession and many other cloud platforms.
+Students get confused (basically non-IT ) when it comes to any new technology or any new profession as in DevOps. I am designing an Chatbot which will give all the information about DevOps. "Azure Edu-Chatbot: DevOps Master" is a chatbot which will gives out all the necessary information not only of DevOps but also various tools involved in it, to help students getting an basic idea about the profession and many other cloud platforms.
 
 ## Description:
 
